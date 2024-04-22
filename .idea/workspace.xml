@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d370c9-6529-47d9-8b44-cae522498a02" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/new-p142.de/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/new-p142.de/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-p142.de/termine.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-p142.de/termine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-p142.de/vorstand.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-p142.de/vorstand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-p142.de/zuechter.html" beforeDir="false" afterPath="$PROJECT_DIR$/new-p142.de/zuechter.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713808501213</updated>
       <workItem from="1713808502254" duration="1939000" />
-      <workItem from="1713811610720" duration="169000" />
+      <workItem from="1713811610720" duration="318000" />
     </task>
     <servers />
   </component>
